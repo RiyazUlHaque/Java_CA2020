@@ -1,5 +1,6 @@
 x=10
 y=20
 z=30
-res=x+y+z
+t=1000
+res=x+y+z+t
 print ("hello my sum is",res)
